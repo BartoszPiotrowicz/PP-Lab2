@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s38748\\Documents\\38748\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9463AC5-8F56-4562-A904-A547AFF595D4}|Lab2\\Lab2.csproj|c:\\users\\s38748\\documents\\38748\\lab2\\lab2\\zad6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9463AC5-8F56-4562-A904-A547AFF595D4}|Lab2\\Lab2.csproj|solutionrelative:lab2\\zad6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9463AC5-8F56-4562-A904-A547AFF595D4}|Lab2\\Lab2.csproj|c:\\users\\s38748\\documents\\38748\\lab2\\lab2\\zad5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9463AC5-8F56-4562-A904-A547AFF595D4}|Lab2\\Lab2.csproj|solutionrelative:lab2\\zad5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9463AC5-8F56-4562-A904-A547AFF595D4}|Lab2\\Lab2.csproj|c:\\users\\s38748\\documents\\38748\\lab2\\lab2\\zad2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9463AC5-8F56-4562-A904-A547AFF595D4}|Lab2\\Lab2.csproj|solutionrelative:lab2\\zad2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9463AC5-8F56-4562-A904-A547AFF595D4}|Lab2\\Lab2.csproj|c:\\users\\s38748\\documents\\38748\\lab2\\lab2\\zad4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9463AC5-8F56-4562-A904-A547AFF595D4}|Lab2\\Lab2.csproj|solutionrelative:lab2\\zad4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9463AC5-8F56-4562-A904-A547AFF595D4}|Lab2\\Lab2.csproj|c:\\users\\s38748\\documents\\38748\\lab2\\lab2\\zad3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9463AC5-8F56-4562-A904-A547AFF595D4}|Lab2\\Lab2.csproj|solutionrelative:lab2\\zad3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9463AC5-8F56-4562-A904-A547AFF595D4}|Lab2\\Lab2.csproj|c:\\users\\s38748\\documents\\38748\\lab2\\lab2\\zad1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9463AC5-8F56-4562-A904-A547AFF595D4}|Lab2\\Lab2.csproj|solutionrelative:lab2\\zad1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zad6.cs",
+              "DocumentMoniker": "C:\\Users\\s38748\\Documents\\38748\\Lab2\\Lab2\\Zad6.cs",
+              "RelativeDocumentMoniker": "Lab2\\Zad6.cs",
+              "ToolTip": "C:\\Users\\s38748\\Documents\\38748\\Lab2\\Lab2\\Zad6.cs*",
+              "RelativeToolTip": "Lab2\\Zad6.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:07:05.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zad5.cs",
+              "DocumentMoniker": "C:\\Users\\s38748\\Documents\\38748\\Lab2\\Lab2\\Zad5.cs",
+              "RelativeDocumentMoniker": "Lab2\\Zad5.cs",
+              "ToolTip": "C:\\Users\\s38748\\Documents\\38748\\Lab2\\Lab2\\Zad5.cs",
+              "RelativeToolTip": "Lab2\\Zad5.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:06:48.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zad4.cs",
+              "DocumentMoniker": "C:\\Users\\s38748\\Documents\\38748\\Lab2\\Lab2\\Zad4.cs",
+              "RelativeDocumentMoniker": "Lab2\\Zad4.cs",
+              "ToolTip": "C:\\Users\\s38748\\Documents\\38748\\Lab2\\Lab2\\Zad4.cs",
+              "RelativeToolTip": "Lab2\\Zad4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T08:58:41.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Zad3.cs",
+              "DocumentMoniker": "C:\\Users\\s38748\\Documents\\38748\\Lab2\\Lab2\\Zad3.cs",
+              "RelativeDocumentMoniker": "Lab2\\Zad3.cs",
+              "ToolTip": "C:\\Users\\s38748\\Documents\\38748\\Lab2\\Lab2\\Zad3.cs",
+              "RelativeToolTip": "Lab2\\Zad3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T08:53:53.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zad2.cs",
+              "DocumentMoniker": "C:\\Users\\s38748\\Documents\\38748\\Lab2\\Lab2\\Zad2.cs",
+              "RelativeDocumentMoniker": "Lab2\\Zad2.cs",
+              "ToolTip": "C:\\Users\\s38748\\Documents\\38748\\Lab2\\Lab2\\Zad2.cs",
+              "RelativeToolTip": "Lab2\\Zad2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T08:49:55.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Zad1.cs",
+              "DocumentMoniker": "C:\\Users\\s38748\\Documents\\38748\\Lab2\\Lab2\\Zad1.cs",
+              "RelativeDocumentMoniker": "Lab2\\Zad1.cs",
+              "ToolTip": "C:\\Users\\s38748\\Documents\\38748\\Lab2\\Lab2\\Zad1.cs",
+              "RelativeToolTip": "Lab2\\Zad1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T08:48:22.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
